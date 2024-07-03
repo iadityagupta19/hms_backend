@@ -1,4 +1,5 @@
 package com.hospitalmanagement.HMS.service;
+
 import com.hospitalmanagement.HMS.model.Doctor;
 import com.hospitalmanagement.HMS.repository.DoctorRepository;
 import org.springframework.beans.factory.annotation.Autowired;

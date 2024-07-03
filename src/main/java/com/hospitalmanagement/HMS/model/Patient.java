@@ -85,4 +85,7 @@ public class Patient {
     public void setInsuranceProvider(String insuranceProvider) {
         this.insuranceProvider = insuranceProvider;
     }
+    public String getFullName() {
+        return this.firstName + " " + this.lastName;
+    }
 }
