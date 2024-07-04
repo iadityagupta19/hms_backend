@@ -1,5 +1,5 @@
 Backend Postman collection link
 
 ```
-https://api.postman.com/collections/36581612-9c40fadf-8c70-4eea-a507-0f837d254775?access_key=PMAT-01J1W4Z2RNEZFX8CQZ753GA13T
+https://www.postman.com/jedi-assignment/workspace/assignment/collection/36581612-d6aa5d36-0300-42f9-a342-2f2c2807573c?action=share&creator=36581612
 ```
